@@ -12,7 +12,7 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.4"
   },
-  "homepage": "https://designatucsd.github.io/membership-client",
+  "homepage": "https://checkin.designatucsd.org/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
