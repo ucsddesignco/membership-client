@@ -13,3 +13,11 @@ yarn start
 ```shell
 yarn build
 ```
+
+## Deploy
+
+This script automatically creates a production build and deploys to Github Pages
+
+```shell
+yarn deploy
+```
